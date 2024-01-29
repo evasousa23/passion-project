@@ -10,7 +10,7 @@ body {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
-    url(../images/nail\ aesthetic.jpg);
+    url(../images/santa\ luzia.webp);
   background-repeat: no-repeat;
   background-size: cover;
   color: antiquewhite;
@@ -52,6 +52,12 @@ header a {
   text-transform: uppercase;
   background: white;
 }
+
+footer{
+«
+}
+
+
 
 @media (max-width: 900px) {
   header {
